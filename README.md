@@ -1,4 +1,5 @@
-# Store, your best option for shopping.
+# Store - your best option for shopping.
+<img src="github/banner.PNG"></br>
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=FINISHED&color=GREEN&style=for-the-badge)
 
@@ -9,23 +10,22 @@
 3. [Features and some gif's ](#features-and-demo)
 4. [Technologies](#Technologies)
 5. [Installation](#Installation)
-6. [Categories](#categories)
-7. [My opinion about this project](#opinion)
-8. [New features](#new-features)
+6. [My opinion about this project](#opinion)
 
 
 <div id="Introduction">
 </br>
 
 ## :page_facing_up:Introduction
-This project is an e-commerce template website that sells some products related to world cup 2022.
+This project is an e-commerce template website that sells some products related to world cup 2022. 
+```All datas and images used here are static```
 
 </div>
 </br>
 
 <div id="live-demo">
 
-
+See this project running, clique at the link below.
 ### :camera: [LIVE DEMO](https://store-cup-2022.vercel.app/index.html) :video_camera:
 </div>
 </br>
@@ -33,11 +33,11 @@ This project is an e-commerce template website that sells some products related 
 
 <div id="features-and-demo">
 
-## :checkered_flag: Features and demo
+## :checkered_flag: Features
 Here you will see the main resources used in this project, as well as some Gif's.
 ### Home
 <p>Know a little about the website and our business.</p>
-<img src="gitHub/home.gif">
+<img src="github/home.gif">
 <br/><br/>
 
 ### Store
@@ -55,15 +55,44 @@ Here you will see the main resources used in this project, as well as some Gif's
 <img src="github/about_us.gif">
 <br/><br/>
 
-### Dashboard 
-<img src="./src/gitHub/Dashboard.gif">
+### Contact 
+<p>Talk to the Store team, it's easy and simple.</p>
+<img src="github/contact.gif">
 <br/><br/>
 
-### Produtos 
-<img src="./src/gitHub/produtos.gif">
-<br/><br/>
+<div id="Technologies">
 
-### CRUD operations 
-<img src="./src/gitHub/adicionarProduto_CRUD.gif">
-<br/><br/>
+## :bar_chart: Technologies
+
+##### :one: Bootstrap
+[Bootstrap docs](https://getbootstrap.com/docs/5.2/getting-started/introduction/). - "Bootstrap is a powerful, feature-packed frontend toolkit..."
+</br>
+
+##### :two:  Bootstrap icons
+[Bootstrap Icons docs](https://icons.getbootstrap.com/). - "Free, high quality, open source icon library with over 1,600 icons..."
+
 </div>
+</br><br>
+
+<div id="Installation">
+
+## :computer: Installation
+
+#### Step 1 - Download this project
+  ##### Option :one: - Download Zip 
+  ##### Option :two: - Cloning a repository - [how to do this](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository). 
+</br>
+
+</div>
+
+<div id="opinion">
+
+## :trophy: Testimony :trophy:
+This project helped me understand how powerful Bootstrap can be on its own and how fast you can build amazing apps with it.
+</div>
+</br>
+
+
+</br></br>
+
+Made with :heart: by Jabes Enock
