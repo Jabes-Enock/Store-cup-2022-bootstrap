@@ -8,9 +8,10 @@
 1. [Introduction](#Introduction)
 2. [Demo](#live-demo)
 3. [Features and some gif's ](#features-and-demo)
-4. [Technologies](#Technologies)
-5. [Installation](#Installation)
-6. [My opinion about this project](#opinion)
+4. [layout mobile ](#layout-mobile)
+5. [Technologies](#Technologies)
+6. [Installation](#Installation)
+7. [My opinion about this project](#opinion)
 
 
 <div id="Introduction">
@@ -59,6 +60,16 @@ Here you will see the main resources used in this project, as well as some Gif's
 <p>Talk to the Store team, it's easy and simple.</p>
 <img src="github/contact.gif">
 <br/><br/>
+
+
+<div id="layout-mobile">
+
+## :iphone: Layout mobile
+<p>See the application running on the mobile screen.</p>
+<img src="github/layout_mobile.gif">
+</br></br>
+
+</div>
 
 <div id="Technologies">
 
