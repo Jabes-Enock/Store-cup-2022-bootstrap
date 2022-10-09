@@ -26,7 +26,7 @@ This project is an e-commerce template website that sells some products related 
 <div id="live-demo">
 
 
-### :camera: [LIVE DEMO](https://bumahouse-dashboard.vercel.app/) :video_camera:
+### :camera: [LIVE DEMO](https://store-cup-2022.vercel.app/index.html) :video_camera:
 </div>
 </br>
 
@@ -36,22 +36,23 @@ This project is an e-commerce template website that sells some products related 
 ## :checkered_flag: Features and demo
 Here you will see the main resources used in this project, as well as some Gif's.
 ### Home
-<img src="./src/gitHub/home.gif">
-
+<p>Know a little about the website and our business.</p>
+<img src="gitHub/home.gif">
 <br/><br/>
 
-### :lock: Private routes
-I added some private routes to this project to allow only authenticated people to access the dashboard.
-
-<img src="./src/gitHub/privateRoutes.gif">
+### Store
+<p>See all our products on this page and choose which one you want to buy.</p>
+<img src="github/store.gif">
 <br/><br/>
 
-### :closed_lock_with_key: Authentication with email and password 
-<img src="./src/gitHub/AuthEmailAndPassword.gif">
+### Cart
+<p>After selecting which products you want, it's time to complete the purchase.</p>
+<img src="github/cart.gif">
 <br/><br/>
 
-### :lock_with_ink_pen: Authentication with Google 
-<img src="./src/gitHub/AuthWithGoogle.gif">
+### About us 
+<p>The history and experience of the Store is described in this section.</p>
+<img src="github/about_us.gif">
 <br/><br/>
 
 ### Dashboard 
