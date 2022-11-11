@@ -12,6 +12,7 @@
 5. [Technologies](#Technologies)
 6. [Installation](#Installation)
 7. [My opinion about this project](#opinion)
+8. [Updates](#updates)
 
 
 <div id="Introduction">
@@ -103,6 +104,21 @@ This project helped me understand how powerful Bootstrap can be on its own and h
 </div>
 </br>
 
+
+<div id="updates">
+
+## :newspaper: See other related projects  :newspaper:
+
+In the [Introduction section](#Introduction)  I wrote ```All datas and images used here are static``` so I thought to myself: 
+      
+    What If the datas were dynamic
+That is why I decided to develop an API that enables the datas to be dynamic.
+
+You can see the [API here](https://github.com/Jabes-Enock/API-store-world-cup-2022-adonisjs), below there is a preview of how the API works.
+
+<img src="github/api_store_preview.gif">
+
+</div>
 
 </br></br>
 
