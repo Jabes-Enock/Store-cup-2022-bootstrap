@@ -67,7 +67,7 @@ Here you will see the main resources used in this project, as well as some Gif's
 
 ## :iphone: Layout mobile
 <p>See the application running on the mobile screen.</p>
-<img src="github/layout_mobile.gif">
+<img align="center" src="github/layout_mobile.gif">
 </br></br>
 
 </div>
